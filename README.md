@@ -20,7 +20,7 @@ A FastAPI-based Minecraft server dashboard with:
 
 ## Screenshot
 
-![MC Dashboard Public Status](docs/images/public-dashboard.png)
+![MC Dashboard Public Status](docs/images/Dash.png)
 
 ## Features
 
