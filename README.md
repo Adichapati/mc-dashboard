@@ -1,4 +1,13 @@
-# OpenClaw Dashboard
+# MC Dashboard
+
+```text
+███╗   ███╗ ██████╗   ██████╗  █████╗ ███████╗██╗  ██╗██████╗  ██████╗  █████╗ ██████╗ ██████╗
+████╗ ████║██╔════╝   ██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗██╔═══██╗██╔══██╗██╔══██╗██╔══██╗
+██╔████╔██║██║        ██║  ██║███████║███████╗███████║██████╔╝██║   ██║███████║██████╔╝██║  ██║
+██║╚██╔╝██║██║        ██║  ██║██╔══██║╚════██║██╔══██║██╔══██╗██║   ██║██╔══██║██╔══██╗██║  ██║
+██║ ╚═╝ ██║╚██████╗██╗██████╔╝██║  ██║███████║██║  ██║██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝
+╚═╝     ╚═╝ ╚═════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
+```
 
 A FastAPI-based Minecraft server dashboard with:
 - Secure login + lockout protection
@@ -8,6 +17,10 @@ A FastAPI-based Minecraft server dashboard with:
 - World backups and restore
 - Public read-only status page
 - Wilson OP assistant (chat-driven in-game helper)
+
+## Screenshot
+
+![MC Dashboard Public Status](docs/images/public-dashboard.png)
 
 ## Features
 
@@ -30,8 +43,8 @@ A FastAPI-based Minecraft server dashboard with:
 1) Clone
 
 ```bash
-git clone https://github.com/Adichapati/openclaw-dashboard.git
-cd openclaw-dashboard
+git clone https://github.com/Adichapati/mc-dashboard.git
+cd mc-dashboard
 ```
 
 2) Create virtualenv + install deps
