@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Runtime/state data
+data/
+*.log
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
